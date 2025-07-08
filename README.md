@@ -1,1 +1,1 @@
-# avocado-fitness-privacy-policy
+# avocado-fitness-app
